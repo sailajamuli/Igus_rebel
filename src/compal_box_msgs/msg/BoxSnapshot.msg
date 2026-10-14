@@ -9,4 +9,4 @@ geometry_msgs/Point front_left
 geometry_msgs/Point front_right
 geometry_msgs/Vector3 surface_normal
 float64 plane_rms_m
-uint32 confirmation_countt
+uint32 confirmation_count
